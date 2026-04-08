@@ -66,10 +66,11 @@ This project solves:
 ---
 
 ## 🏗️ Architecture
-
-```
 ![Architecture](./architecture/Data-pipeline-architecture.png)
-```
+
+
+---
+
 ## 🔁 Data Flow
 
 1. Raw CSV uploaded to S3
