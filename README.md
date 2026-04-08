@@ -68,7 +68,8 @@ This project solves:
 ## 🏗️ Architecture
 
 ```
-![Architecture](architecture/Data-pipeline-architecture.png)
+<img width="1170" height="567" alt="Data-pipeline-architecture" src="https://github.com/user-attachments/assets/1654364d-45be-45d8-958d-c2e125ff02cd" />
+
 ```
 ## 🔁 Data Flow
 
@@ -229,7 +230,12 @@ This project showcases how to build a **scalable and cost-efficient data pipelin
 
 ## 🔗 Connect with Me
 
-* LinkedIn: [https://www.linkedin.com/in/tara-choudhary00/]
-* Medium: [https://medium.com/@developer.tarachoudhary]
+**Author:** Tara Choudhary  
+
+**GitHub:** [Tara-Choudhary](https://github.com/Tara-Choudhary)  
+
+**LinkedIn:** [Tara Choudhary](https://www.linkedin.com/in/tara-choudhary00/)  
+
+**Email:** developer.tarachoudhary@gmail.com
 
 ---
