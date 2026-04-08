@@ -1,4 +1,4 @@
-# 🚀 AWS Data Pipeline using S3, Glue & Athena
+# 🚀 AWS Data Analytics Pipeline for E-commerce Insights (S3, Glue & Athena)
 
 ## 📌 Project Overview
 
