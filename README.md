@@ -68,8 +68,7 @@ This project solves:
 ## 🏗️ Architecture
 
 ```
-<img width="1170" height="567" alt="Data-pipeline-architecture" src="https://github.com/user-attachments/assets/1654364d-45be-45d8-958d-c2e125ff02cd" />
-
+![Architecture](./architecture/Data-pipeline-architecture.png)
 ```
 ## 🔁 Data Flow
 
