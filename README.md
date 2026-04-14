@@ -232,7 +232,7 @@ This project showcases how to build a **scalable and cost-efficient data pipelin
 
 **Author:** Tara Choudhary  
 
-**GitHub:** [Tara-Choudhary](https://github.com/Tara-Choudhary)  
+**Medium:** [Tara-Choudhary](https://medium.com/@developer.tarachoudhary)
 
 **LinkedIn:** [Tara Choudhary](https://www.linkedin.com/in/tara-choudhary00/)  
 
